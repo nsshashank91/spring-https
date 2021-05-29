@@ -4,6 +4,6 @@ server:
     key-store: keystore.p12
     key-store-password: 123456
     keyStoreType: PKCS12
-    keyAlias: certussecure.softedgesolution.com
+    keyAlias: certusapi.softedgesolution.com
 http:
   port: 7171
